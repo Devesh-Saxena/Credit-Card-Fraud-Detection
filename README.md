@@ -93,16 +93,6 @@ Minimizes false positives
 
 Enhances financial security
 
-👥 Team – The OG’s
-
-Devesh Saxena (Leader)
-
-Govinda Shil
-
-Shivam Rawat
-
-Raghav Sharma
-
 🌟 Future Improvements
 
 Integration with real-time transaction systems
